@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">KotlinAndroidUtil</string>
+    <string name="error_field_empty">Field cannot be empty</string>
+    <string name="error_field_blank">Field cannot be blank</string>
+    <string name="error_not_above_zero">Value must be above zero</string>
+    <string name="error_field_not_of_length">The field must be of length %d</string>
+    <string name="cancel">Cancel</string>
 </resources>
