@@ -5,4 +5,5 @@
     <string name="error_not_above_zero">Value must be above zero</string>
     <string name="error_field_not_of_length">The field must be of length %d</string>
     <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
 </resources>
